@@ -21,6 +21,9 @@ install_packages() {
         echo "Installing wget ..."
         sudo apt install wget
     fi
+
+    echo "Installing font powerline package"
+    sudo apt install fonts-powerline
 }
 
 install_dependencies() {
