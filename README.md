@@ -9,4 +9,5 @@ This script install zsh with **agnoster** theme and some usefull plugins.
 - colored-man-pages
 
 # Tested and works on
+### Ubuntu 18.04
 ### Ubuntu 20.04
